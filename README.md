@@ -9,3 +9,5 @@ https://youtu.be/dyekEqg-w60
 https://github.com/facebookresearch/LASER
 
 https://www.amazon.science/publications/gemv2-multilingual-nlg-benchmarking-in-a-single-line-of-code
+
+https://github.com/facebookresearch/fastText/
