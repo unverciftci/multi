@@ -11,3 +11,5 @@ https://github.com/facebookresearch/LASER
 https://www.amazon.science/publications/gemv2-multilingual-nlg-benchmarking-in-a-single-line-of-code
 
 https://github.com/facebookresearch/fastText/
+
+https://huggingface.co/spaces/ysharma/Talk_to_Multilingual_AI_WhisperBloomCoqui
