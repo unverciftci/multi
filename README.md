@@ -13,3 +13,5 @@ https://www.amazon.science/publications/gemv2-multilingual-nlg-benchmarking-in-a
 https://github.com/facebookresearch/fastText/
 
 https://huggingface.co/spaces/ysharma/Talk_to_Multilingual_AI_WhisperBloomCoqui
+
+https://laion.ai/blog/laion-translated/
