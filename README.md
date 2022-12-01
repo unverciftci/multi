@@ -15,3 +15,5 @@ https://github.com/facebookresearch/fastText/
 https://huggingface.co/spaces/ysharma/Talk_to_Multilingual_AI_WhisperBloomCoqui
 
 https://laion.ai/blog/laion-translated/
+
+https://github.com/UKPLab/sentence-transformers
