@@ -19,3 +19,5 @@ https://laion.ai/blog/laion-translated/
 https://github.com/UKPLab/sentence-transformers
 
 https://txt.cohere.ai/multilingual/
+
+https://project-miracl.github.io/
