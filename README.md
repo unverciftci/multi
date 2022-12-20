@@ -21,3 +21,5 @@ https://github.com/UKPLab/sentence-transformers
 https://txt.cohere.ai/multilingual/
 
 https://project-miracl.github.io/
+
+https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/evaluation/README.md
